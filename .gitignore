@@ -131,6 +131,11 @@ venv.bak/
 llm2/
 .llm2
 
+
+# Documents
+Documents/
+.Documents
+
 # Spyder project settings
 .spyderproject
 .spyproject
